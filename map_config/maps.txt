@@ -104,6 +104,11 @@ endmap
 map oread_garrison
 endmap
 
+<<<<<<<<< Temporary merge branch 1
+map greenvault_ranch
+endmap
+g
+=========
 map redemption_valley
 endmap
 
